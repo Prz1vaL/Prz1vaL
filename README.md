@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Pradeep</h1>
-<h3 align="center">A passionate hardware - software engineer from India</h3>
+<h3 align="center">I'm currently Transitioning from Hardware to Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prz1val&label=Profile%20views&color=0e75b6&style=flat" alt="prz1val" /> </p>
 
